@@ -1,2 +1,2 @@
-# applied-ML-kaggle-
+# applied-ML-kaggle-contest
 a kaggle contest style assignment
